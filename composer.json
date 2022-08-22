@@ -1,8 +1,8 @@
 {
-    "name": "mgkprod/ytmusicapi",
+    "name": "JibayMcs/ytmusicapi",
     "description": "Unofficial API for YouTube Music",
     "keywords": ["php", "laravel", "youtube", "youtube-api", "youtube-music", "youtube-music-api", "mgkprod", "ytmusicapi"],
-    "homepage": "https://github.com/mgkprod/ytmusicapi",
+    "homepage": "https://github.com/JibayMcs/ytmusicapi",
     "license": "MIT",
     "type": "library",
     "authors": [
